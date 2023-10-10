@@ -1,0 +1,33 @@
+## Setting up an account  
+Root administartor sets up the first login, then it allows other users to be invited and granted permessions
+
+## Device configuration
+Devices section shows which devices are currently configured, clicking on a specific device will open it's own dashboard 
+
+An endpoint has 3 status :
+
+Green: the device is connected and online 
+
+Red: The device is connected but offline 
+
+Grey: Device is initalized, but needs pre-configuration or to be powered on 
+
+## Accounts
+
+Determine who has access
+
+Modify service permessions
+
+required security measures
+
+Granular Control
+
+
+
+
+
+
+
+
+
+
